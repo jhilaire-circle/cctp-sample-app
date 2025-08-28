@@ -1,4 +1,5 @@
 # [DEPRECATED] CCTP Sample App
+
 **This project is no longer actively maintained or supported by [Circle].**
 
 This repository is kept for historical and archival purposes only. No further updates, bug fixes, or new features will be implemented by the original maintainers.
